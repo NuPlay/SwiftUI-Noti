@@ -1,1 +1,3 @@
-# SwiftUI-Noti
+# Noti
+
+A description of this package.
